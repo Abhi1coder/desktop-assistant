@@ -1,2 +1,2 @@
 # desktop-assistant
-This is a desktop assistant that is customized according to the user needs
+The code is in sub branch
